@@ -1,0 +1,6 @@
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.Model\bin\Debug\ManagerCourse.Model.dll
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.Model\bin\Debug\ManagerCourse.Model.pdb
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.Model\obj\Debug\ManagerCourse.Model.csproj.AssemblyReference.cache
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.Model\obj\Debug\ManagerCourse.Model.csproj.CoreCompileInputs.cache
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.Model\obj\Debug\ManagerCourse.Model.dll
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.Model\obj\Debug\ManagerCourse.Model.pdb

@@ -1,0 +1,10 @@
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.DATABASE\bin\Debug\ManagerCourse.DATABASE.dacpac
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.DATABASE\bin\Debug\ManagerCourse.DATABASE.dll
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.DATABASE\bin\Debug\ManagerCourse.DATABASE.pdb
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.DATABASE\obj\Debug\ManagerCourse.DATABASE.sqlproj.AssemblyReference.cache
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.DATABASE\obj\Debug\Model.xml
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.DATABASE\obj\Debug\refactor.xml
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.DATABASE\obj\Debug\postdeploy.sql
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.DATABASE\obj\Debug\predeploy.sql
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.DATABASE\obj\Debug\ManagerCourse.DATABASE.dll
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.DATABASE\obj\Debug\ManagerCourse.DATABASE.pdb

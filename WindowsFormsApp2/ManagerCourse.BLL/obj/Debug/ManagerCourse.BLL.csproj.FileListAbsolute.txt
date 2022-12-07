@@ -1,0 +1,13 @@
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.BLL\bin\Debug\ManagerCourse.BLL.dll
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.BLL\bin\Debug\ManagerCourse.BLL.pdb
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.BLL\bin\Debug\ManageCourse.DAL.dll
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.BLL\bin\Debug\ManagerCourse.Model.dll
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.BLL\bin\Debug\ManageCourse.DAL.pdb
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.BLL\bin\Debug\ManagerCourse.Model.pdb
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.BLL\obj\Debug\ManagerCourse.BLL.csproj.AssemblyReference.cache
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.BLL\obj\Debug\ManagerCourse.BLL.csproj.CoreCompileInputs.cache
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.BLL\obj\Debug\ManagerCourse.BLL.csproj.CopyComplete
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.BLL\obj\Debug\ManagerCourse.BLL.dll
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.BLL\obj\Debug\ManagerCourse.BLL.pdb
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.BLL\bin\Debug\MySql.Data.dll
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.BLL\bin\Debug\MySql.Data.xml

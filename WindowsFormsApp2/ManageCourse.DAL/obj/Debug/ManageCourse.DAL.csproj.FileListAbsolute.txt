@@ -1,0 +1,11 @@
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManageCourse.DAL\bin\Debug\ManageCourse.DAL.dll
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManageCourse.DAL\bin\Debug\ManageCourse.DAL.pdb
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManageCourse.DAL\bin\Debug\ManagerCourse.Model.dll
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManageCourse.DAL\bin\Debug\MySql.Data.dll
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManageCourse.DAL\bin\Debug\ManagerCourse.Model.pdb
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManageCourse.DAL\bin\Debug\MySql.Data.xml
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManageCourse.DAL\obj\Debug\ManageCourse.DAL.csproj.AssemblyReference.cache
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManageCourse.DAL\obj\Debug\ManageCourse.DAL.csproj.CoreCompileInputs.cache
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManageCourse.DAL\obj\Debug\ManageCourse.DAL.csproj.CopyComplete
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManageCourse.DAL\obj\Debug\ManageCourse.DAL.dll
+C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManageCourse.DAL\obj\Debug\ManageCourse.DAL.pdb
