@@ -18,3 +18,33 @@ C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.GUI\obj\Debug\
 C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.GUI\obj\Debug\ManagerCourse.GUI.pdb
 C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.GUI\bin\Debug\MySql.Data.dll
 C:\Users\FRED PEUGH'S\source\repos\WindowsFormsApp2\ManagerCourse.GUI\bin\Debug\MySql.Data.xml
+D:\www\projet_exemple2\WindowsFormsApp2\ManagerCourse.GUI\bin\Debug\ManagerCourse.GUI.exe.config
+D:\www\projet_exemple2\WindowsFormsApp2\ManagerCourse.GUI\bin\Debug\ManagerCourse.GUI.exe
+D:\www\projet_exemple2\WindowsFormsApp2\ManagerCourse.GUI\bin\Debug\ManagerCourse.GUI.pdb
+D:\www\projet_exemple2\WindowsFormsApp2\ManagerCourse.GUI\bin\Debug\ManagerCourse.BLL.dll
+D:\www\projet_exemple2\WindowsFormsApp2\ManagerCourse.GUI\bin\Debug\ManagerCourse.Model.dll
+D:\www\projet_exemple2\WindowsFormsApp2\ManagerCourse.GUI\bin\Debug\ManageCourse.DAL.dll
+D:\www\projet_exemple2\WindowsFormsApp2\ManagerCourse.GUI\bin\Debug\MySql.Data.dll
+D:\www\projet_exemple2\WindowsFormsApp2\ManagerCourse.GUI\bin\Debug\Google.Protobuf.dll
+D:\www\projet_exemple2\WindowsFormsApp2\ManagerCourse.GUI\bin\Debug\ZstdNet.dll
+D:\www\projet_exemple2\WindowsFormsApp2\ManagerCourse.GUI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\www\projet_exemple2\WindowsFormsApp2\ManagerCourse.GUI\bin\Debug\BouncyCastle.Crypto.dll
+D:\www\projet_exemple2\WindowsFormsApp2\ManagerCourse.GUI\bin\Debug\System.Memory.dll
+D:\www\projet_exemple2\WindowsFormsApp2\ManagerCourse.GUI\bin\Debug\System.Buffers.dll
+D:\www\projet_exemple2\WindowsFormsApp2\ManagerCourse.GUI\bin\Debug\K4os.Compression.LZ4.dll
+D:\www\projet_exemple2\WindowsFormsApp2\ManagerCourse.GUI\bin\Debug\K4os.Hash.xxHash.dll
+D:\www\projet_exemple2\WindowsFormsApp2\ManagerCourse.GUI\bin\Debug\System.Numerics.Vectors.dll
+D:\www\projet_exemple2\WindowsFormsApp2\ManagerCourse.GUI\bin\Debug\ManagerCourse.BLL.pdb
+D:\www\projet_exemple2\WindowsFormsApp2\ManagerCourse.GUI\bin\Debug\ManagerCourse.Model.pdb
+D:\www\projet_exemple2\WindowsFormsApp2\ManagerCourse.GUI\bin\Debug\ManageCourse.DAL.pdb
+D:\www\projet_exemple2\WindowsFormsApp2\ManagerCourse.GUI\bin\Debug\MySql.Data.xml
+D:\www\projet_exemple2\WindowsFormsApp2\ManagerCourse.GUI\obj\Debug\ManagerCourse.GUI.csproj.AssemblyReference.cache
+D:\www\projet_exemple2\WindowsFormsApp2\ManagerCourse.GUI\obj\Debug\ManagerCourse.GUI.csproj.SuggestedBindingRedirects.cache
+D:\www\projet_exemple2\WindowsFormsApp2\ManagerCourse.GUI\obj\Debug\ManagerCourse.GUI.exe.config
+D:\www\projet_exemple2\WindowsFormsApp2\ManagerCourse.GUI\obj\Debug\ManagerCourse.GUI.Form1.resources
+D:\www\projet_exemple2\WindowsFormsApp2\ManagerCourse.GUI\obj\Debug\ManagerCourse.GUI.Properties.Resources.resources
+D:\www\projet_exemple2\WindowsFormsApp2\ManagerCourse.GUI\obj\Debug\ManagerCourse.GUI.csproj.GenerateResource.cache
+D:\www\projet_exemple2\WindowsFormsApp2\ManagerCourse.GUI\obj\Debug\ManagerCourse.GUI.csproj.CoreCompileInputs.cache
+D:\www\projet_exemple2\WindowsFormsApp2\ManagerCourse.GUI\obj\Debug\ManagerCourse.GUI.csproj.CopyComplete
+D:\www\projet_exemple2\WindowsFormsApp2\ManagerCourse.GUI\obj\Debug\ManagerCourse.GUI.exe
+D:\www\projet_exemple2\WindowsFormsApp2\ManagerCourse.GUI\obj\Debug\ManagerCourse.GUI.pdb
